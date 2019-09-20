@@ -2,7 +2,7 @@
 
 Describe here whats is the propouse of this pull request. Eg:
 
-_The main propouse is improve code organization of our package, but also will help with build time_
+_The main purpose is improve code organization of our package, but also will help with build time_
 
 ## 2. Why are we doing this?
 
