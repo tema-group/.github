@@ -1,17 +1,17 @@
-## 1. What is the purpose of this pull request?
+## 1. Qual é o objetivo desse pull request
 
-Describe here whats is the propouse of this pull request. Eg:
+Descreva com detalhes qual é o objetivo desse PULL REQUEST. Qual a motivação e como foi desenvolvida a solução
 
-_The main purpose is improve code organization of our package, but also will help with build time_
+### 1.1 Asana
 
-## 2. Why are we doing this?
+link: 
 
-Describe the *motivation* of this PR. Eg:
+## 2. Como Testar?
 
-_We are doing this because we are spending so much time locating files (about 10min to found where a component are) and installing packages - and now this is a issue for us.
+Descreva os passos de como reproduzir o problema e a solução!
 
-## 3. How will we do this?
+## 3. Boas Práticas:
 
-Describe the strategy to implement this. Eg:
-
-_We will put all files into another repo, following the standard strucutre propoused by....._
+- [ ] Titulo em Português
+- [ ] Link do Asana
+- [ ] Testes automatizados para regras de negócio
